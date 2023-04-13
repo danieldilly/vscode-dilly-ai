@@ -2,6 +2,7 @@
   "name": "dilly-ai",
   "displayName": "dilly-ai",
   "description": "AI enhanced editor",
+  "repository": "https://github.com/danieldilly/dilly-ai",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"
